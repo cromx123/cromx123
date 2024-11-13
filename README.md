@@ -2,13 +2,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/cristobal-gallardo-cromxdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B8&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cromx123.cromx123&right_color=lightseagreen&left_text=Visitantes"  />
 </div>
 

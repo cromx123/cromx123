@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Yo soy de Santiago, Chile.<br><br>- 🔭 Estoy trabajando como Freelancer<br>- 📚 Actualmente soy estudiante de Analista en Computación Científica <br>- ⚡ En mi tiempo libre me gusta aprender una nueva habilidad.</p>
+<p align="left">Yo soy de Santiago, Chile.<br><br>- 🔭 Estoy trabajando como Freelancer<br>- 📚 Actualmente soy estudiante de Analista en Computación Científica en la USACH<br>- ⚡ En mi tiempo libre me gusta aprender una nueva habilidad.</p>
 
 ###
 
